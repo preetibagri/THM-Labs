@@ -1,4 +1,5 @@
 Overview
+
 This project documents my hands-on experience with the TryHackMe Log Analysis with SIEM lab. The goal of this lab was to build foundational SOC skills by analyzing multiple types of logs and using a SIEM platform to detect and investigate suspicious activity.
 
 Objectives
